@@ -1,0 +1,58 @@
+<!--
+<this is a comment>
+
+In this code, we will learn how to create a table in html code
+
+table elements and syntaxes are wrapped with <table> </table> tag
+
+table,
+		row - <tr> </tr>
+		col - <th> </th>
+		data - <td> </td>
+
+for creating a table,
+
+					<tr>
+						<th> </th>
+						<th> </th>
+					</tr>
+
+inserting data to table,
+					
+					<tr>
+						<td> </td>
+						<td> </td>
+					</tr>
+ -->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title> I AM A PROGRAMMER </title>
+</head>
+
+<body>
+
+	<h1> Programming Introduction </h1>
+
+		<p>
+			In this tutorial, we will learn about programming.
+
+			<br> <!-- This is a line break statement -->
+
+			<h2>So, what is programming actually?</h2> 
+			Programming is the way to teach the dummy computer what to do becasue
+			a computer only understands 1's and 0's nothing else.
+
+			<br>
+			<br>
+
+
+		</p>
+	
+</body>
+
+
+</html>
